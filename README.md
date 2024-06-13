@@ -31,6 +31,8 @@ To get started with the Andazioni project, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
+## [You can also download the app](https://drive.google.com/file/d/1TrlfWgWM3Y7jytMehoFKo_Md-S0w4qfw/view?usp=sharing)
+
 ## Contact
 
 For any questions, feedback, or contributions, feel free to contact the developer:
