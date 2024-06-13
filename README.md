@@ -41,14 +41,4 @@ For any questions, feedback, or contributions, feel free to contact the develope
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-### Explanation
-
-- **HTML `<img>` Tags**: Markdown allows you to use HTML tags for more advanced formatting. Here, `<img>` tags are used to embed each screenshot with specific width (`width="200"`) and alternative text (`alt="..."`).
-  
-- **`<div align="center">`**: This `<div>` element with `align="center"` ensures that the images are horizontally centered within the README.
-
-- **Screenshot Paths**: Replace `"screenshots/intro.png"`, `"screenshots/main.png"`, `"screenshots/tac.png"`, and `"screenshots/share.png"` with the actual paths to your screenshots relative to your project's root directory.
-
-By following these steps, you can effectively include screenshots in your README.md file with specified dimensions and alignment, enhancing the documentation of your Android project on GitHub. Adjust the paths and dimensions as necessary to fit your specific layout and design preferences.
