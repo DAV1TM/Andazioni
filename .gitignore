@@ -1,0 +1,34 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the IDE
+.idea/
+.gradle/
+/local.properties
+
+# Gradle files
+/.gradle/
+build/
+
+# Android Studio files
+*.iml
+.DS_Store
+
+# Keystore files
+*.jks
+
+# Proguard files
+proguard/
+
+# Crashlytics generated file
+crashlytics.properties
+
+# Firebase generated file
+google-services.json
+
+# Android virtual device files
+.android/
+
+
+apikeys.txt
