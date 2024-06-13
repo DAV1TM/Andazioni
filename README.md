@@ -7,9 +7,18 @@ Andazioni is an Android application aimed at providing users with a collection o
 - **Random Proverb Generation**: Users can generate random proverbs with a single tap.
 - **Share Proverbs**: Users can share their favorite proverbs with others easily.
 
+## Screenshots
+
+<div align="center">
+    <img src="screenshots/intro.png" width="200" alt="Intro Screen">
+    <img src="screenshots/main.png" width="200" alt="Main Screen">
+    <img src="screenshots/tac.png" width="200" alt="Tac Screen">
+    <img src="screenshots/share.png" width="200" alt="Share Screen">
+</div>
+
 ## Status
 
-This project is currently under development. Contributions are welcome! If you're interested in contributing, please check the [issues](https://github.com/DaviDM2005/Andazioni/issues) section or contact the developer at datamamuladze@gmail.com.
+This project is currently under development. Contributions are welcome! If you're interested in contributing, please check the [issues](https://github.com/DaviDM2005/Andazioni/issues) section or contact the developer at [datamamuladze@gmail.com](mailto:datamamuladze@gmail.com).
 
 ## Getting Started
 
@@ -32,3 +41,14 @@ For any questions, feedback, or contributions, feel free to contact the develope
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+```
+
+### Explanation
+
+- **HTML `<img>` Tags**: Markdown allows you to use HTML tags for more advanced formatting. Here, `<img>` tags are used to embed each screenshot with specific width (`width="200"`) and alternative text (`alt="..."`).
+  
+- **`<div align="center">`**: This `<div>` element with `align="center"` ensures that the images are horizontally centered within the README.
+
+- **Screenshot Paths**: Replace `"screenshots/intro.png"`, `"screenshots/main.png"`, `"screenshots/tac.png"`, and `"screenshots/share.png"` with the actual paths to your screenshots relative to your project's root directory.
+
+By following these steps, you can effectively include screenshots in your README.md file with specified dimensions and alignment, enhancing the documentation of your Android project on GitHub. Adjust the paths and dimensions as necessary to fit your specific layout and design preferences.
