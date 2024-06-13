@@ -10,10 +10,10 @@ Andazioni is an Android application aimed at providing users with a collection o
 ## Screenshots
 
 <div align="center">
-    <img src="screenshots/intro.png" width="200" alt="Intro Screen">
-    <img src="screenshots/main.png" width="200" alt="Main Screen">
-    <img src="screenshots/tac.png" width="200" alt="Tac Screen">
-    <img src="screenshots/share.png" width="200" alt="Share Screen">
+    <img src="Screenshots/intro.png" width="200" alt="Intro Screen">
+    <img src="Screenshots/main.png" width="200" alt="Main Screen">
+    <img src="Screenshots/tac.png" width="200" alt="Tac Screen">
+    <img src="Screenshots/share.png" width="200" alt="Share Screen">
 </div>
 
 ## Status
